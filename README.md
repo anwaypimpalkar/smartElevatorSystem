@@ -115,9 +115,3 @@ To house the components of this project, we created a Printed Circuit Board desi
 ## Demonstration
 
 The hardware required was implemented as a proof of concept for the evaluation of the project. An unnarrated [video demonstration](https://youtu.be/mMH1OMFZL_I) has been documented. 
-
-
-
-## Group Details
-
-This project was created under the guidance of Dr. Deeplaxmi Niture by a group of 3 students: Esha Dorle, Sayali Gadre and myself - all second year students in the Electronics and Telecommunications Department at College of Engineering, Pune.
