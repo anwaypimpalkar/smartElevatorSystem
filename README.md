@@ -21,7 +21,7 @@ Then, the person would speak the floor number he would like to visit, and the el
 
 ## System Overview
 
-The project a three-part system encompassing the following subsystems:
+The project is a three-part system encompassing the following subsystems:
 
 1. Person recognition (VWW Detection) and voice recognition (KWS) to operate the elevator.
 
