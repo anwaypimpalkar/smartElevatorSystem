@@ -1,6 +1,8 @@
 # Smart Elevator Systems using Embedded Machine Learning and Fire Safety Mechanisms
 
-April - June 2021 | Micro Project in SY BTech
+April - June 2021 | Micro Project in SY BTech | Read: [Project Report](https://github.com/anwaypimpalkar/smartElevatorSystem/blob/main/Project%20Report.pdf)
+
+*Awarded "Best Project" out of a pool of 1000+ projects at the 5th IEEE National Level Project Competition.*
 
 *Awarded "Best Project" out of a pool of 1000+ projects at the 5th IEEE National Level Project Competition.*
 
@@ -21,7 +23,7 @@ Then, the person would speak the floor number he would like to visit, and the el
 
 ## System Overview
 
-The project a three-part system encompassing the following subsystems:
+The project is a three-part system encompassing the following subsystems:
 
 1. Person recognition (VWW Detection) and voice recognition (KWS) to operate the elevator.
 
@@ -115,9 +117,3 @@ To house the components of this project, we created a Printed Circuit Board desi
 ## Demonstration
 
 The hardware required was implemented as a proof of concept for the evaluation of the project. An unnarrated [video demonstration](https://youtu.be/mMH1OMFZL_I) has been documented. 
-
-
-
-## Group Details
-
-This project was created under the guidance of Dr. Deeplaxmi Niture by a group of 3 students: Esha Dorle, Sayali Gadre and myself - all second year students in the Electronics and Telecommunications Department at College of Engineering, Pune.
