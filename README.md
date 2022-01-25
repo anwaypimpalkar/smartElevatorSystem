@@ -4,8 +4,6 @@ April - June 2021 | Micro Project in SY BTech | Read: [Project Report](https://g
 
 *Awarded "Best Project" out of a pool of 1000+ projects at the 5th IEEE National Level Project Competition.*
 
-*Awarded "Best Project" out of a pool of 1000+ projects at the 5th IEEE National Level Project Competition.*
-
 ## Introduction
 
 Using an approach of Embedded Machine Learning, we built a multi-tenant architecture to facilitate a contactless elevator system. It consists of two parts – person detection and speech recognition. To create an effective pipeline, we used multiple signal processing techniques to extract necessary features from the input signals. Further, we developed a fire safety system using basic yet functional sensors in two methods – using a microcontroller and using an operational amplifier. These systems are deployed outside and inside an elevator, respectively. Lastly, we built a PCB to house all these components and make a holistically deployable product.
