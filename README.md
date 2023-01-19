@@ -3,7 +3,7 @@
 April - June 2021 | Micro Project in SY BTech | Read: [Project Report](https://github.com/anwaypimpalkar/smartElevatorSystem/blob/main/Project%20Report.pdf)
 
 
-#### Updates
+### Updates
 ***June 2021:** Awarded "Best Project" out of a pool of 1000+ projects at the 5th IEEE National Level Project Competition.*
 
 ***January 2022:** Check out the [Arduino Team's Blog Post](https://blog.arduino.cc/2022/01/29/this-contactless-system-combines-embedded-ml-and-sensors-to-improve-elevator-safety/?queryID=undefined) covering this project!*
