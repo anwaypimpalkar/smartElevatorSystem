@@ -1,6 +1,6 @@
 # Smart Elevator Systems using Embedded Machine Learning and Fire Safety Mechanisms
 
-April - June 2021 | Micro Project in SY BTech | Read: [Project Report](https://github.com/anwaypimpalkar/smartElevatorSystem/blob/main/Project%20Report.pdf)
+April - June 2021 | Micro Project in SY BTech
 
 
 ### Updates
